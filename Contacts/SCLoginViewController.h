@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SCLoginViewController.h
 //  Contacts
 //
 //  Created by Stephen Cao on 17/2/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface SCLoginViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
